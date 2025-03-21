@@ -1,4 +1,4 @@
-# Telemetry - README
+# IOT Telemetry Prototype - README
 
 When forced to work with [Domain specific languages (DSL)](https://en.wikipedia.org/wiki/Domain-specific_language) such as the data modeling languages [YANG](https://en.wikipedia.org/wiki/YANG) and [NETCONF](https://en.wikipedia.org/wiki/NETCONF), I was left feeling a little dirty.  Often DSL's aren't useful outside of their domain.  Before the Internet web era began, YANG and NETCONF could have been good langauges had they been developed back then and widely implemented in Internet netorking equipment.  YANG and NETCONF have not  proven to be extensible outside of switch/router configuration and they are not widely implemented.
 
